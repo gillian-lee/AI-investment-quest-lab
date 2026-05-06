@@ -1,0 +1,18 @@
+{
+  "name": "ai-investment-quest-lab",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "start": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
